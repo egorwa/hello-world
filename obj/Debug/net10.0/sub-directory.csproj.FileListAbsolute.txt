@@ -1,0 +1,14 @@
+C:\Users\Owner\sub-directory\bin\Debug\net10.0\sub-directory.exe
+C:\Users\Owner\sub-directory\bin\Debug\net10.0\sub-directory.deps.json
+C:\Users\Owner\sub-directory\bin\Debug\net10.0\sub-directory.runtimeconfig.json
+C:\Users\Owner\sub-directory\bin\Debug\net10.0\sub-directory.dll
+C:\Users\Owner\sub-directory\bin\Debug\net10.0\sub-directory.pdb
+C:\Users\Owner\sub-directory\obj\Debug\net10.0\sub-directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\sub-directory\obj\Debug\net10.0\sub-directory.AssemblyInfoInputs.cache
+C:\Users\Owner\sub-directory\obj\Debug\net10.0\sub-directory.AssemblyInfo.cs
+C:\Users\Owner\sub-directory\obj\Debug\net10.0\sub-directory.csproj.CoreCompileInputs.cache
+C:\Users\Owner\sub-directory\obj\Debug\net10.0\sub-directory.dll
+C:\Users\Owner\sub-directory\obj\Debug\net10.0\refint\sub-directory.dll
+C:\Users\Owner\sub-directory\obj\Debug\net10.0\sub-directory.pdb
+C:\Users\Owner\sub-directory\obj\Debug\net10.0\sub-directory.genruntimeconfig.cache
+C:\Users\Owner\sub-directory\obj\Debug\net10.0\ref\sub-directory.dll
