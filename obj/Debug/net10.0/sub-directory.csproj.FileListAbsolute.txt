@@ -12,3 +12,4 @@ C:\Users\Owner\sub-directory\obj\Debug\net10.0\refint\sub-directory.dll
 C:\Users\Owner\sub-directory\obj\Debug\net10.0\sub-directory.pdb
 C:\Users\Owner\sub-directory\obj\Debug\net10.0\sub-directory.genruntimeconfig.cache
 C:\Users\Owner\sub-directory\obj\Debug\net10.0\ref\sub-directory.dll
+C:\Users\Owner\sub-directory\obj\Debug\net10.0\sub-directory.sourcelink.json
